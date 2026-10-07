@@ -122,6 +122,7 @@ Data and operations related to files and disk management are organized within cl
 The project uses C++ file handling to save and load active file information using:
 - ofstream
 - ifstream
+
 Main Menu
 The simulator provides the following main menu:
 1. Create File
@@ -138,25 +139,25 @@ Technologies Used
 - Compiler: MinGW / GCC or compatible C++ compiler
 - IDE: Visual Studio Code / Dev-C++
 - Operating System: Windows
+
 - Libraries Used:
   - <iostream>
   - <string>
   - <fstream>
   - <conio.h>
   - <windows.h>
+
 How to Run
 Step 1: Clone or Download the Repository
 Download the project from this GitHub repository.
 Step 2: Open the Project
 Open the project folder in Visual Studio Code or another C++ IDE.
 Step 3: Compile the Program
+
 Using a C++ compiler:
 g++ Virtual_Data_Recovery_Simulator.cpp -o simulator
 
-Step 4: Run the Program
-simulator
-
-On Windows, you can also run the generated executable:
+Step 4: Run the Program simulator On Windows, you can also run the generated executable:
 simulator.exe
 
 Project Structure
@@ -166,7 +167,6 @@ Virtual-Data-Recovery-Simulator/
 ├── README.md
 └── simulator.txt
 
-File Description
 File	Description
 Virtual_Data_Recovery_Simulator.cpp	Main C++ source code
 README.md	Project documentation
@@ -217,9 +217,11 @@ University: Purbanchal University
 Project Type: C++ Object-Oriented Programming Project
 Disclaimer
 This project is an educational simulation of file allocation, deletion, and recovery. It does not perform actual recovery of deleted files from physical storage devices.
+
 Author:
 -Samrat Timilsina
 -Krishna Chandra Giri
 -Dipesh Dhungana
 Developed as an academic project for the study of Object-Oriented Programming using C++.
+
 ### For GitHub
