@@ -143,11 +143,11 @@ The simulator provides the following main menu:
 - IDE: Visual Studio Code / Dev-C++
 - Operating System: Windows
 - Libraries Used:
-  - <iostream>
-  - <string>
-  - <fstream>
-  - <conio.h>
-  - <windows.h>
+  - iostream
+  - string
+  - fstream
+  - conio.h
+  - windows.h
     
 How to Run
 Step 1: Clone or Download the Repository
