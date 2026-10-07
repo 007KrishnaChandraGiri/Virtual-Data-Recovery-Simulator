@@ -173,6 +173,8 @@ File Description
 | `Virtual_Data_Recovery_Simulator.cpp` | Main C++ source code |
 | `README.md` | Project documentation |
 | `simulator.txt` | Stores active file information |
+
+
 Example
 Suppose the user creates:
 ```
