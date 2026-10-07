@@ -222,6 +222,8 @@ Disclaimer
 This project is an educational simulation of file allocation, deletion, and recovery. It does not perform actual recovery of deleted files from physical storage devices.
 
 Author:
+```
 -Samrat Timilsina
 -Krishna Chandra Giri
 -Dipesh Dhungana
+```
