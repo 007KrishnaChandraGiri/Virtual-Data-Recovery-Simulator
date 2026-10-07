@@ -116,8 +116,10 @@ bool operator==(const File &other);
 
 5. Constructors
 The Data class uses a constructor to initialize the virtual disk and free space.
+
 6. Encapsulation
 Data and operations related to files and disk management are organized within classes.
+
 7. File Handling
 The project uses C++ file handling to save and load active file information using:
 - ofstream
