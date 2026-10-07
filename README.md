@@ -162,8 +162,7 @@ Project Structure
 Virtual-Data-Recovery-Simulator/
 │
 ├── Virtual_Data_Recovery_Simulator.cpp
-├── README.md
-└── simulator.txt
+└── README.md
 ```
 
 File Description
